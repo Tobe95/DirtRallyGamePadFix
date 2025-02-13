@@ -11,9 +11,9 @@ The patch fixes this by making the game partially apply steering wheel parameter
 
 ## Installation
 
-1. Download the latest version of [Ultimate-ASI-Loader.zip] (https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
+1. Download the latest version of [Ultimate-ASI-Loader.zip](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
 
-2. Download [DrtGamePadFix.asi] (https://github.com/Tobe95/DirtRallyGamePadFix/releases)
+2. Download [DrtGamePadFix.asi](https://github.com/Tobe95/DirtRallyGamePadFix/releases)
 
 3. Place both dinput8.dll and DrtGamePadFix.asi into your Dirt Rally folder, next to drt.exe
 
@@ -36,8 +36,8 @@ While I've been using this fix for a while with no issues in multiplayer or lead
 
 Many thanks to:
 
-- [Sergeanur] (https://github.com/Sergeanur/EaglePatch) I used Eagle Patch as a template and guide on how to patch a 32-bit exe
+- [Sergeanur](https://github.com/Sergeanur/EaglePatch) I used Eagle Patch as a template and guide on how to patch a 32-bit exe
 
-- [Withmorten] (https://github.com/withmorten/patcher) for the win32 patcher included in this project
+- [Withmorten](https://github.com/withmorten/patcher) for the win32 patcher included in this project
 
-- [ThirteenAG] (https://github.com/ThirteenAG/Ultimate-ASI-Loader) for asi plugin loading
+- [ThirteenAG](https://github.com/ThirteenAG/Ultimate-ASI-Loader) for asi plugin loading
